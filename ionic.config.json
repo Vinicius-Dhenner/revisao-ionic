@@ -1,0 +1,7 @@
+{
+  "name": "front-revisao-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
